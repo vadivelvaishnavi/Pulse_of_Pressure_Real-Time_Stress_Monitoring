@@ -32,6 +32,14 @@ The system provides dual visualization:serial monitor and serial plotter.
 Serial Plotter: Displays a cyan ECG waveform with BPM and stress indicators (yellow and red text).
 Serial Monitor: Shows live readings. This output mirrors real‑time data streaming from the Arduino, confirming accurate signal processing and alert functionality.
 
+Output Images:
+
+![ECG](images/ecg1.jpeg)
+![ECG](images/ecg2.jpeg)
+![ECG](images/ecg3.jpeg)
+![ECG](images/ecg4.jpeg)
+![ECG](images/ecg5.jpeg)
+
 Alert Mechanism:
 High Stress (BPM > 100): Red LED + SMS alert
 Medium Stress (60–100 BPM): Yellow LED
