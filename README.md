@@ -34,11 +34,7 @@ Serial Monitor: Shows live readings. This output mirrors real‑time data stream
 
 Output Images:
 
-![ECG](images/ecg1.jpeg)
-![ECG](images/ecg2.jpeg)
-![ECG](images/ecg3.jpeg)
-![ECG](images/ecg4.jpeg)
-![ECG](images/ecg5.jpeg)
+images
 
 Alert Mechanism:
 High Stress (BPM > 100): Red LED + SMS alert
